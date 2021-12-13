@@ -32,6 +32,22 @@
         margin:2%;
     
     }
+    .div3{
+        background-color:pink ;
+        height:100px;
+        width: 95%;
+        display:block;
+        margin:2%;
+     
+    }
+    .div4,.div5,.div6{
+        background-color:blue ;
+        height:100px;
+        width: 29%;
+        display:inline-block;
+        margin:2%;
+        margin-top: 2%;
+    }
 }
 @media screen and(max-width:768px){
     .div1,.div2{
@@ -42,8 +58,16 @@
         margin:2%;
     
     }
-}
-@media screen and(max-width:768px){
+    .div3{
+        background-color:pink ;
+        height:100px;
+        width: 95%;
+        display:block;
+        margin:2%;
+     
+    }
+    
+
     .div4,.div5,.div6{
         background-color:blue ;
         height:100px;
