@@ -14,7 +14,19 @@
     <div id="root"></div>
     <script type="text/babel">
 //React Code here
- ReactDOM.render(<div></div>,document.getElementById('root'));
+ const Alldivs=
+React.createElement('div',{},
+ React.createElement('div',{className:"div1"}, '1st div'),
+ React.createElement('div',{className:"div2"},'2nd div'),
+ React.createElement('div',{className:"div3"},'3rd div'),
+ React.createElement('div',{className:"div4"},'4th div'),
+ React.createElement('div',{className:"div5"},'5th div'),
+ React.createElement('div',{className:"div6"},'6th div'),
+ );
+ ReactDOM.render(
+   Alldivs,
+   document.getElementById('root')
+   );
 
 </script>
 <!--
