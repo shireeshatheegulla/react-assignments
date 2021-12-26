@@ -1,0 +1,29 @@
+{
+    "user":
+                [
+            {
+            "name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "nature",
+            "PostImage": "https://webneel.com/daily/sites/default/files/images/daily/08-2018/1-nature-photography-spring-season-mumtazshamsee.jpg",
+            "Date": "30-7-1997"
+            },
+            {
+            "name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "bridge",
+            "PostImage": "https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg"
+            },
+            {
+            "name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "chairs",
+            "PostImage": "https://placem.at/things?w=300&h=300&random=0",
+            "Date": "25-12-2021"
+            }
+            ]
+}
+
